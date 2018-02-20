@@ -1,0 +1,26 @@
+.menu{
+			background: #ee3f1a;
+			width: 20%;
+			height: 500px;
+			border-radius: 30px;
+			float: left;
+			margin: 150px 0px 0px 100px;
+		}
+		.menu li{
+			list-style: none;
+			padding: 18px 10px 18px 20px;
+			color: #fff;
+			letter-spacing: 10px;
+		}
+		.menu hr{
+			width: 80%;
+		}
+		.food{
+			padding: 150px 0px 0px 100px;
+			width: 100%;
+			margin-bottom: 200px;
+		}
+		.food img{
+			width: 20%;
+			padding: 5px;
+		}
